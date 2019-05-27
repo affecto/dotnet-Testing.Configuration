@@ -7,6 +7,6 @@
 
 | Target | Build |
 | -----------------------|------------------|
-| Project | [![Build status](https://ci.appveyor.com/api/projects/status/l3oaksnj47aj321i?svg=true)](https://ci.appveyor.com/project/johannesvaltonen/dotnet-testing-configuration) |
-| Master branch | [![Build status](https://ci.appveyor.com/api/projects/status/l3oaksnj47aj321i/branch/master?svg=true)](https://ci.appveyor.com/project/johannesvaltonen/dotnet-testing-configuration/branch/master) |
-| Dev branch | [![Build status](https://ci.appveyor.com/api/projects/status/l3oaksnj47aj321i/branch/dev?svg=true)](https://ci.appveyor.com/project/johannesvaltonen/dotnet-testing-configuration/branch/dev) |
+| Project | [![Build status](https://ci.appveyor.com/api/projects/status/l3oaksnj47aj321i?svg=true)](https://ci.appveyor.com/project/affecto/dotnet-testing-configuration) |
+| Master branch | [![Build status](https://ci.appveyor.com/api/projects/status/l3oaksnj47aj321i/branch/master?svg=true)](https://ci.appveyor.com/project/affecto/dotnet-testing-configuration/branch/master) |
+| Dev branch | [![Build status](https://ci.appveyor.com/api/projects/status/l3oaksnj47aj321i/branch/dev?svg=true)](https://ci.appveyor.com/project/affecto/dotnet-testing-configuration/branch/dev) |
