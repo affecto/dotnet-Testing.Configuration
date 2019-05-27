@@ -4,7 +4,7 @@
 [assembly: AssemblyDescription("Toolkit for testing configuration file access and custom configuration sections.")]
 [assembly: AssemblyCompany("Affecto")]
 
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("1.0.1")]
+[assembly: AssemblyFileVersion("1.0.1")]
 
-[assembly: AssemblyInformationalVersion("1.0.0")]
+[assembly: AssemblyInformationalVersion("1.0.1")]
